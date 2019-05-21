@@ -9,7 +9,7 @@
   height: 150px;
 }
 #bottom-box { background-color: #D4D1B0;
-  height: 850px;
+  height: 800px;
 }
 /* -------------------------------------------------------------------------- */
 #r1{ background: green;
@@ -17,8 +17,26 @@
   width: 1000px;
   margin: 0px;
 }
+#r2{ background: blue;
+  min-height: 200px;
+  width: 1000px;
+  margin: 0px;
+}
+#r3{ background: red;
+  min-height: 200px;
+  width: 1000px;
+  margin: 0px;
+}
+#r4{ background: magenta;
+  min-height: 200px;
+  width: 1000px;
+  margin: 0px;
+}
 /* -------------------------------------------------------------------------- */
-#r1_c1, #r1_c2, #r1_c3, #r1_c4, #r1_c5 { background: yellow;
+#r1_c1, #r1_c2, #r1_c3, #r1_c4, #r1_c5,
+#r2_c1, #r2_c2, #r2_c3, #r2_c4, #r2_c5,
+#r3_c1, #r3_c2, #r3_c3, #r3_c4, #r3_c5,
+#r4_c1, #r4_c2, #r4_c3, #r4_c4, #r4_c5 { background: yellow;
   height: 180px;
   width: 180px;
   margin: 10px;
