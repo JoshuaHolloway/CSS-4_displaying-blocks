@@ -1,0 +1,29 @@
+/* -------------------------------------------------------------------------- */
+#outer-container { background: silver;
+  width: 1000px;
+  overflow: hidden;
+  height: auto;
+}
+/* -------------------------------------------------------------------------- */
+#top-box { background-color: #D4D1B0;
+  height: 150px;
+}
+#bottom-box { background-color: #D4D1B0;
+  height: 850px;
+}
+/* -------------------------------------------------------------------------- */
+#r1{ background: green;
+  min-height: 200px;
+  width: 1000px;
+  margin: 0px;
+}
+/* -------------------------------------------------------------------------- */
+#r1_c1, #r1_c2, #r1_c3, #r1_c4, #r1_c5 { background: yellow;
+  height: 180px;
+  width: 180px;
+  margin: 10px;
+  float: right;
+  border: 0px;
+  padding: 0px;
+}
+/* -------------------------------------------------------------------------- */
