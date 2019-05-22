@@ -60,3 +60,18 @@
   float: right;
 }
 /* -------------------------------------------------------------------------- */
+#top-c1_l, #top-c3_r {
+  background: red;
+  height: 135px;
+  width: 100px;
+  margin: 0px;
+  float: right;
+}
+#top-c1_r, #top-c3_l {
+  background: green;
+  height: 135px;
+  width: 150px;
+  margin: 0px;
+  float: right;
+}
+/* -------------------------------------------------------------------------- */
