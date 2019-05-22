@@ -61,14 +61,14 @@
 }
 /* -------------------------------------------------------------------------- */
 #top-c1_l, #top-c3_r {
-  background: red;
+  background: #D4D1B0;
   height: 135px;
   width: 100px;
   margin: 0px;
   float: right;
 }
 #top-c1_r, #top-c3_l {
-  background: green;
+  background: #D4D1B0;
   height: 135px;
   width: 150px;
   margin: 0px;
