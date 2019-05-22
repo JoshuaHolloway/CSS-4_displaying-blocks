@@ -45,3 +45,18 @@
   padding: 0px;
 }
 /* -------------------------------------------------------------------------- */
+#top-c1, #top-c3 {
+  background: blue;
+  height: 135px;
+  width: 250px;
+  margin: 5px;
+  float: right;
+}
+#top-c2 {
+  background: orange;
+  height: 135px;
+  width: 467px;
+  margin: 5px;
+  float: right;
+}
+/* -------------------------------------------------------------------------- */
