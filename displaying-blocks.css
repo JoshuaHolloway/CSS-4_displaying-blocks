@@ -57,6 +57,9 @@
   height: 135px;
   width: 467px;
   margin: 5px;
+  font-family: cursive;
+
+  font-size: 57px;
   float: right;
 }
 /* -------------------------------------------------------------------------- */
@@ -75,3 +78,13 @@
   float: right;
 }
 /* -------------------------------------------------------------------------- */
+#top-c2_top{
+  background: red;
+  height: 70px;
+  /* width: 100px; */
+}
+#top-c2_bottom {
+  background: green;
+  height: 70px;
+  /* width: 100px; */
+}
