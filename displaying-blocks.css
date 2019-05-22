@@ -12,22 +12,22 @@
   height: 800px;
 }
 /* -------------------------------------------------------------------------- */
-#r1{ background: green;
+#r1{ background: #D4D1B0;;
   min-height: 200px;
   width: 1000px;
   margin: 0px;
 }
-#r2{ background: blue;
+#r2{ background: #D4D1B0;;
   min-height: 200px;
   width: 1000px;
   margin: 0px;
 }
-#r3{ background: red;
+#r3{ background: #D4D1B0;;
   min-height: 200px;
   width: 1000px;
   margin: 0px;
 }
-#r4{ background: magenta;
+#r4{ background: #D4D1B0;;
   min-height: 200px;
   width: 1000px;
   margin: 0px;
